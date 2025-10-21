@@ -1,0 +1,21 @@
+p{
+    font-size: 2.0em;
+    font-weight: bold;
+    color:#ff0000;
+    background-color: green;
+}
+
+h3{
+    font-size: 1.5em;
+    font-weight: bold;
+    color:#ff0000;
+
+}
+
+div.bgblue{
+    background-color: blue;
+}
+
+div.center{
+    text-align: center;
+}
